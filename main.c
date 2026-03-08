@@ -2,6 +2,6 @@
 
 int main() {
     printf("Student Management System\n");
-    printf("Attendance feature implemented\n");
+    printf("student marksheet\n");
     return 0;
 }
